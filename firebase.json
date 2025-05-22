@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "sirchanmp",
+    "public": "dist/app",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
